@@ -1,0 +1,8 @@
+c:\users\rodrigo\documents\visual studio 2013\Projects\Jogo da adivinha\JogoDaAdivinha\bin\Debug\JogoDaAdivinha.exe.config
+c:\users\rodrigo\documents\visual studio 2013\Projects\Jogo da adivinha\JogoDaAdivinha\obj\Debug\JogoDaAdivinha.csprojResolveAssemblyReference.cache
+c:\users\rodrigo\documents\visual studio 2013\Projects\Jogo da adivinha\JogoDaAdivinha\bin\Debug\JogoDaAdivinha.exe
+c:\users\rodrigo\documents\visual studio 2013\Projects\Jogo da adivinha\JogoDaAdivinha\bin\Debug\JogoDaAdivinha.pdb
+c:\users\rodrigo\documents\visual studio 2013\Projects\Jogo da adivinha\JogoDaAdivinha\bin\Debug\Jogo.dll
+c:\users\rodrigo\documents\visual studio 2013\Projects\Jogo da adivinha\JogoDaAdivinha\bin\Debug\Jogo.pdb
+c:\users\rodrigo\documents\visual studio 2013\Projects\Jogo da adivinha\JogoDaAdivinha\obj\Debug\JogoDaAdivinha.exe
+c:\users\rodrigo\documents\visual studio 2013\Projects\Jogo da adivinha\JogoDaAdivinha\obj\Debug\JogoDaAdivinha.pdb

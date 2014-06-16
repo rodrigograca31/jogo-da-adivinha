@@ -1,0 +1,5 @@
+c:\users\rodrigo\documents\visual studio 2013\Projects\Jogo da adivinha\Jogo\bin\Debug\Jogo.dll
+c:\users\rodrigo\documents\visual studio 2013\Projects\Jogo da adivinha\Jogo\bin\Debug\Jogo.pdb
+c:\users\rodrigo\documents\visual studio 2013\Projects\Jogo da adivinha\Jogo\obj\Debug\Jogo.csprojResolveAssemblyReference.cache
+c:\users\rodrigo\documents\visual studio 2013\Projects\Jogo da adivinha\Jogo\obj\Debug\Jogo.dll
+c:\users\rodrigo\documents\visual studio 2013\Projects\Jogo da adivinha\Jogo\obj\Debug\Jogo.pdb

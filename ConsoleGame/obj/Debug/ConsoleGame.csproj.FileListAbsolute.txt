@@ -1,0 +1,1 @@
+c:\users\rodrigo\documents\visual studio 2013\Projects\Jogo da adivinha\ConsoleGame\bin\Debug\ConsoleGame.exe.config
